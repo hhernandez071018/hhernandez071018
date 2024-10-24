@@ -116,3 +116,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hhernandez071018" alt="hhernandez071018" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhernandez071018&show_icons=true&locale=en" alt="hhernandez071018" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhernandez071018&" alt="hhernandez071018" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hhernandez071018&show_icons=true&locale=en&layout=compact" alt="hhernandez071018" /></p>
